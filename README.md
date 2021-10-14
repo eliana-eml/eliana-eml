@@ -30,11 +30,13 @@
 
 ### Ferramentas
 <div style="display: inline_block"><br>
-    <img align="center" src="https://img.shields.io/badge/Eclipse-191970.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Eclipse-191970.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/mysql-20B2AA.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/mysql-20B2AA.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ##
