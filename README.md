@@ -5,6 +5,8 @@
 - 📖 Aprendendo atualmente sobre React Native.
 - ⚡ Amo tecnologia, jogos, ler e aprender novas coisas.
 
+<h3>Portfólio: https://eliana-eml.github.io/portfolio/</h3>
+
 <div>
   <a href="https://github.com/eliana-eml">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliana-eml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
