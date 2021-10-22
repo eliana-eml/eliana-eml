@@ -4,8 +4,8 @@
 - 🎓 Estudante de Desenvolvimento de Sistemas no SENAI São Paulo.
 - 📖 Aprendendo atualmente sobre React Native.
 - ⚡ Amo tecnologia, jogos, ler e aprender novas coisas.
+- 💡 <a href="https://eliana-eml.github.io/portfolio">Portfólio</a>
 
-<h2 align="center">• <a href="https://eliana-eml.github.io/portfolio">Portfólio</a> •</h2>
 <br>
 
 <div>
