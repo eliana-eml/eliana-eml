@@ -2,7 +2,7 @@
 
 - 💻 Em busca de oportunidades de emprego na área de Desenvolvimento Front-End ou Back-End.
 - 🎓 Estudante de Desenvolvimento de Sistemas no SENAI São Paulo.
-- 📖 Aprendendo atualmente sobre React Native.
+- 📖 Aprendendo atualmente sobre C#.
 - ⚡ Amo tecnologia, jogos, ler e aprender novas coisas.
 - 💡 <a href="https://eliana-eml.github.io/portfolio">Portfólio</a>
 
