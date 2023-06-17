@@ -1,9 +1,9 @@
-### Bem vindo(a), sou a Eliana Lima! 👋
+### Bem vindo(a), me chamo Eliana! 👋
 
 - 💻 Em busca de oportunidades de emprego na área de Desenvolvimento Front-End ou Back-End.
-- 🎓 Estudante de Desenvolvimento de Sistemas no SENAI São Paulo.
-- 📖 Aprendendo atualmente sobre C#.
-- ⚡ Amo tecnologia, jogos, ler e aprender novas coisas.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário SENAC.
+- 📖 Aprendendo atualmente sobre Java.
+- ⚡ Amo tecnologia, inovações, ler e estar sempre em ritmo de auto-aprimoramento.
 - 💡 <a href="https://eliana-eml.github.io/portfolio">Portfólio</a>
 
 <br>
