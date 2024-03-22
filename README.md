@@ -10,10 +10,11 @@
 
 <div display="flex">
   <a href="https://github.com/eliana-eml">
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=eliana-eml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliana-eml&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=eliana-eml&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliana-eml&layout=compact&langs_count=7&theme=holi"/>
 </div>
 
+##
 
 ### Desenvolvimento
 <div style="display: inline_block"><br>
