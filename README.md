@@ -2,7 +2,7 @@
 
 - 💻 Em busca de oportunidades na área de Desenvolvimento Front-End ou Back-End.
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário SENAC.
-- 📖 Aprendendo atualmente sobre Spring Boot.
+- 📖 Aprendendo atualmente sobre **Spring Boot** e **Desenvolvimento de Sistemas Web**.
 - ⚡ Amo tecnologia, inovações, ler e estar sempre em ritmo de auto aprimoramento.
 - 💡 <a href="https://eliana-eml.github.io/portfolio-2.1">Portfólio</a>
 
