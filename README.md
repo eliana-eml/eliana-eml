@@ -67,8 +67,8 @@ Atualmente estou em busca da minha primeira oportunidade como Desenvolvedora Jav
 ## 📊 Status GitHub 
 
 <p align="center">
-  <img height="180em" width="auto" src="https://github-readme-stats-one-bice.vercel.app/api?username=eliana-eml&show_icons=true&theme=tokyonight" />
-  <img height="180em" width="auto" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=eliana-eml&layout=compact&theme=tokyonight&hide=&langs_count=6" />
+  <img width="400" src="https://github-readme-stats-one-bice.vercel.app/api?username=eliana-eml&show_icons=true&theme=tokyonight" />
+  <img width="400" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=eliana-eml&layout=compact&theme=tokyonight&hide=&langs_count=6" />
 </p>
 
 <br>
