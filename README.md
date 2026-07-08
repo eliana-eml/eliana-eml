@@ -1,6 +1,8 @@
-# 👋 Olá, sou a Eliana! 
+<h1 align="center">👋 Olá, sou a Eliana! </h1>
 
 **`DESENVOLVEDORA DE SOFTWARE · FULL-STACK`**
+
+<br>
 
 🎓 Técnica e graduada em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Java Back-end e conhecimentos em Spring Boot, JavaScript, HTML, CSS e MySQL.
 
